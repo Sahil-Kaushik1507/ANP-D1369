@@ -53,7 +53,7 @@ public class Car {
 
     public static void main(String[] args) {
 
-        
+        // Car car1= new Car();
         Car car1 = new Car("Ford","Mustang","z-blue",6000000,220,150,true);
         // car1.Company="Ford";
         // car1.Model="Mustang";
